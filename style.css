@@ -1,0 +1,31 @@
+.content {
+background-color: rgb(165, 177, 202);
+width: 250px;
+padding:40px;
+position: absolute;
+top: 5%;
+left: 60%;
+}
+
+
+.h3 {
+    background-color: rgb(202, 202, 202);
+    color: white;
+}
+
+.h4 {
+    background-color: rgb(202, 202, 202);
+    color: white;
+}
+
+.like1 {
+    color: rgb(160, 160, 229);
+}
+
+.like2 {
+    color: rgb(235, 209, 125);
+}
+
+.like3 {
+    color: rgb(143, 181, 252);
+}
